@@ -10,3 +10,4 @@
 - *(querySelector ile html elementlerine erişim sağlayabilirsiniz)*
 - *(style, classList ile stillerle oynayabilirsiniz)*
 - *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
+![Alt Text](https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp/week-6-assignment-2-YTeyfik/blob/main/Animation.gif)
